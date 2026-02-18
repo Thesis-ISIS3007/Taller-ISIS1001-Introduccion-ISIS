@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "scala",
+      "request": "launch",
+      "name": "ShowcaseAdder",
+      "mainClass": "workshop.ShowcaseAdder",
+      "buildTarget": "file:///home/orion160/personal/Taller-ISIS1001-Introduccion-ISIS",
+      "args": [],
+      "jvmOptions": [],
+      "env": {}
+    }
+  ]
+}

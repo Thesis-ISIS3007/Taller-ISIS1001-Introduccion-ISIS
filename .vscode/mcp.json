@@ -1,0 +1,12 @@
+{
+  "servers": {
+    "thesis-prototype-metals": {
+      "url": "http://localhost:41547/mcp",
+      "type": "http"
+    },
+    "Taller-ISIS1001-Introduccion-ISIS-metals": {
+      "url": "http://localhost:46299/mcp",
+      "type": "http"
+    }
+  }
+}
