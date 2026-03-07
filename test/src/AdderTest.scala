@@ -1,7 +1,6 @@
 package workshop
 
 import org.scalatest.funspec.AnyFunSpec
-import org.scalatest.matchers.should.Matchers
 
 import chisel3._
 import chisel3.simulator.scalatest.ChiselSim

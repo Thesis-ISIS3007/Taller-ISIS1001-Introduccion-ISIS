@@ -8,4 +8,3 @@
 - `./mill test -DemitVcd=1`
 - `./mill mill.scalalib.scalafmt/reformatAll`
 - `./mill fix`
-
