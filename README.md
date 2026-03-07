@@ -8,3 +8,7 @@
 - `./mill test -DemitVcd=1`
 - `./mill mill.scalalib.scalafmt/reformatAll`
 - `./mill fix`
+
+## Generate PDF
+
+`pandoc TALLER.md -o TALLER.pdf --from gfm -F mermaid-filter`
