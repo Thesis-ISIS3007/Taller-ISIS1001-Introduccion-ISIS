@@ -126,6 +126,8 @@ Está desarrollado dentro del ecosistema de CHIPS Alliance y se utiliza tanto en
 
 ## 4. Entorno de Trabajo
 
+**El trabajo se realizara bajo el repostitorio**: https://github.com/Thesis-ISIS3007/Taller-ISIS1001-Introduccion-ISIS
+
 Este repositorio incluye una configuración de `devcontainer`, lo que permite abrir un entorno de desarrollo ya preparado con las herramientas necesarias para compilar, probar y simular los ejercicios del taller.
 
 ### 4.1 Opción recomendada: abrir el repositorio en GitHub Codespaces
